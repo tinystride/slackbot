@@ -19,8 +19,8 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-thank-you": "0.0.3",
-    "hubot-weather": "*",
     "hubot-youtube": "^1.0.0",
+    "hubot-tell": "*"
   },
   "engines": {
     "node": "0.10.x"
